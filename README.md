@@ -109,5 +109,6 @@ If you like my projects, please consider giving them a ⭐ to show your support!
 ---
 
 <p align="center">
-  <img src="https://github.com/your-username/your-username/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/destinyy-7/destinyy-7/raw/output/github-contribution-grid-snake.svg" alt="yılan animasyonu" />
 </p>
+
