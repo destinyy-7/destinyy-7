@@ -16,7 +16,6 @@
 - 👨‍💻 **Frontend Skills:** Proficient in HTML, CSS, JavaScript, React, React Native, and Sass to develop high-quality web applications.
 - 🎨 **Design Tools:** Experienced with Figma, Adobe Illustrator, Adobe Photoshop, and Adobe Xd for creating stunning designs.
 - 🌱 **Currently Learning:** Next.js, TypeScript, and advanced animations with GSAP.
-//- 🔭 **Current Project:** Working on **[Project Name](https://github.com/destinyy-7/project-name)**.
 - ⚡ **Hobbies:**  Photography 📷, Reading 📚, and Traveling ✈️, Creative design, animations, and digital art 🎨.
 
 ---
