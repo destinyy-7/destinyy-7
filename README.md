@@ -104,7 +104,6 @@
 ### 🌟 Support
 
 If you like my projects, please consider giving them a ⭐ to show your support!
-### 🐍 GitHub Snake Animation
 
 ### 🐍 GitHub Snake Animation
 
