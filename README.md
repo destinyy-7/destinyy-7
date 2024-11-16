@@ -16,7 +16,7 @@
 - 👨‍💻 **Frontend Skills:** Proficient in HTML, CSS, JavaScript, React, React Native, and Sass to develop high-quality web applications.
 - 🎨 **Design Tools:** Experienced with Figma, Adobe Illustrator, Adobe Photoshop, and Adobe Xd for creating stunning designs.
 - 🌱 **Currently Learning:** Next.js, TypeScript, and advanced animations with GSAP.
-- ⚡ **Hobbies:**  Photography 📷, Reading 📚, and Traveling ✈️, Creative design, animations, and digital art 🎨.
+- ⚡ **Hobbies:**  Photography 📷, Reading 📚, and Traveling ✈️, Creative design and animations.
 
 ---
 
@@ -104,4 +104,7 @@
 ### 🌟 Support
 
 If you like my projects, please consider giving them a ⭐ to show your support!
+### 🐍 GitHub Snake Animation
+
+![snake animation](https://github.com/destinyy-7/destinyy-7/blob/output/dist/snake.svg)
 
