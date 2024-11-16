@@ -105,8 +105,9 @@
 
 If you like my projects, please consider giving them a ⭐ to show your support!
 
-### 🐍 GitHub Snake Animation
 
-![snake animation](https://github.com/destinyy-7/destinyy-7/raw/output/snake.svg)
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
