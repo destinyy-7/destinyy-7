@@ -106,5 +106,8 @@
 If you like my projects, please consider giving them a ⭐ to show your support!
 ### 🐍 GitHub Snake Animation
 
-![snake animation](https://github.com/destinyy-7/destinyy-7/blob/output/dist/snake.svg)
+### 🐍 GitHub Snake Animation
+
+![snake animation](https://github.com/destinyy-7/destinyy-7/raw/output/snake.svg)
+
 
