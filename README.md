@@ -15,7 +15,7 @@
 - 🖌️ **Design & Development:** I design my own UI/UX projects and turn them into fully functional applications using modern frontend technologies. My focus is on creating intuitive and responsive user interfaces.
 - 👨‍💻 **Frontend Skills:** Proficient in HTML, CSS, JavaScript, React, React Native, and Sass to develop high-quality web applications.
 - 🎨 **Design Tools:** Experienced with Figma, Adobe Illustrator, Adobe Photoshop, and Adobe Xd for creating stunning designs.
-- 🌱 **Currently Learning:** Next.js, TypeScript, and advanced animations with GSAP.
+- 🌱 Currently Working On: React Native, AI-powered content creation, and language learning applications. 🚀
 - ⚡ **Hobbies:**  Photography 📷, Reading 📚, and Traveling ✈️, Creative design and animations.
 
 ---
